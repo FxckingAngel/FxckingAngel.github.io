@@ -1,13 +1,13 @@
 # Mika | FxckingAngel Portfolio
 
-Personal portfolio site for [FxckingAngel](https://github.com/FxckingAngel), built as a static GitHub Pages site.
+Static GitHub Pages site for my public profile, selected work, and contact links.
 
 ## Sections
 
-- About Me
-- Selected Work
+- About
+- Selected public work
 - Stack
-- Current performance and creator-tooling research
+- Current work
 - Contact links
 
 ## Live Site
