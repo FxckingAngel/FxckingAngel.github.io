@@ -1,4 +1,4 @@
-# Mika | FxckingAngel Portfolio
+# Korone | FxckingAngel Portfolio
 
 Static GitHub Pages site for my public profile, selected work, and contact links.
 
@@ -6,8 +6,8 @@ Static GitHub Pages site for my public profile, selected work, and contact links
 
 - About
 - Selected public work
+- Security and repo hygiene tools
 - Stack
-- Current work
 - Contact links
 
 ## Live Site
