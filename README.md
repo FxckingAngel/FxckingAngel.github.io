@@ -10,9 +10,10 @@ Static GitHub Pages site for my public profile, selected work, and contact links
 - Stack
 - Contact links
 
-## Main Project
+## Main Projects
 
-https://github.com/FxckingAngel/github-security-checkup
+- https://github.com/FxckingAngel/github-security-checkup
+- https://github.com/FxckingAngel/github-repo-security-basics
 
 ## Live Site
 
